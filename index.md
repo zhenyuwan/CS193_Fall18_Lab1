@@ -1,3 +1,8 @@
+#Zhenyu Wan's first CS193 Lab
+#Favoriate things about CS193
+-This course is designed by undergraduates 
+- This course teaches us practical tools that we woould use during coding
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
